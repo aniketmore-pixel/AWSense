@@ -95,13 +95,4 @@ thank-you page after submission.
 
 ![Success Page](./screenshots/success.png)
 
-------------------------------------------------------------------------
 
-## 📜 License
-
-This project is for educational purposes.\
-Feel free to use and modify for your own AWS experiments.
-
-------------------------------------------------------------------------
-
-👨‍💻 **Author:** Avinash Reddy Thipparthi
