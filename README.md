@@ -1,4 +1,4 @@
-# Serverless Contact Form with AWS Lambda & DynamoDB
+# AWSense
 
 ## 📌 Project Description
 
