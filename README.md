@@ -4,9 +4,8 @@
 
 Serverless AWS Lambda function serving a contact form with DynamoDB
 integration for storing submissions.
-
 This project demonstrates how to build a simple serverless web app on
-AWS where users can submit a contact form.\
+AWS where users can submit a contact form.
 The data is stored in **Amazon DynamoDB**, and users are redirected to a
 thank-you page after submission.
 
